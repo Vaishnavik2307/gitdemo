@@ -1,2 +1,2 @@
 print('stage')
-print('Inside new branch')
+print('Inside branch')
