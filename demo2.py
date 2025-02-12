@@ -1,1 +1,2 @@
-print('this file is for stage changes')
+print('stage')
+print('Inside branch')
